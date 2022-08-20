@@ -14,3 +14,5 @@ Please take note of this parameters before running the project
 
 ![image](https://user-images.githubusercontent.com/48594708/185731324-eb34bcb4-8024-41ad-a615-0acd52d4ec6e.png)
 
+![image](https://user-images.githubusercontent.com/48594708/185731446-818c0f22-52d7-4183-bbbf-3c15807f1dc3.png)
+
